@@ -3,7 +3,7 @@ Official code for the paper “LINK: Learning Inter-Region Relation via Knowledg
 
 # Introduction
 ## Framework
-![Framework](.LINK/picture/framework.png)
+![Framework](./LINK/picture/framework.png)
 ## Installation
 
 - Python 3.8  
